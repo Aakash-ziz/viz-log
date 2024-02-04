@@ -1,0 +1,124 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: black;
+}
+
+.log-form{
+    width: 650px;
+    height: 300px;
+    background-color: white;
+    margin:15% auto;
+    padding-top: 40px;
+    padding-left: 45px;
+    display: flex;
+    flex-direction: column;
+}
+p{
+    display: inline-block;
+}
+/* font */
+
+
+
+/* header1 */
+
+.head1{
+    margin-left: 70px;
+}
+
+.h1-p1{
+    font-weight: bold;
+    display: block;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.h1-p2{
+    color: rgb(97, 97, 97);
+    font-size: 14px;
+}
+
+.a1{
+    color: rgb(255, 0, 0);
+    
+}
+/* head2 */
+.head2{
+    margin-top: 10px;
+    margin-left:10px ;
+}
+
+.h2-p1{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.h2-in1{
+    padding:10px;
+    width: 350px;
+}
+
+/* head3 */
+
+/* head2 */
+.head3{
+    margin-top: 10px;
+}
+
+.h3-p1{
+    font-size: 14px;
+    font-weight: bold;
+
+}
+
+.h3-in2{
+    padding:10px;
+    width: 350px;
+}
+
+/* head4 */
+
+.head4{
+    margin-top: 10px;
+}
+
+.h4-p1{
+    margin-left: 70px;
+    font-size: 14px;
+    color: rgb(97, 97, 97);
+    margin-right: 145px;
+}
+
+.a2{
+    font-size: 14px;
+    color: red;
+}
+
+/* head5 */
+
+.head5{
+    margin-top: 10px;
+}
+
+.h5-b1{
+    padding-left:35px ;
+    padding-right:35px ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: 68px;
+}
+
+.h5-b1:hover{
+    background-color: white;
+    color: red;
+}
